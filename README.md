@@ -11,8 +11,9 @@ Welcome to Quiz APP! This Flutter-based application allows users to test their k
 
 ## Screenshots
 
-![Quiz Screen](screenshots/quiz_screen.png)
-![Results Screen](screenshots/results_screen.png)
+![Quiz Screen](assets/screenshots/Screenshot_1.jpg)
+![Results Screen](assets/screenshots/Screenshot_2.jpg)
+
 
 ## Installation
 
