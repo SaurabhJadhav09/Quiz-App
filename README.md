@@ -52,6 +52,7 @@ final questions = [
   ),
   // Add more questions here
 ];
+ ```
 Contributing
 Contributions are welcome! If you have any ideas, suggestions, or bug fixes, please create a pull request or open an issue in the repository.
 
